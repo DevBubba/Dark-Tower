@@ -49,9 +49,9 @@
 </p>
 
 
-# 🧾 Lisence
+# 🧾 License
 
-### Dark Tower is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0</a>
+### Dark Tower is licensed under the <a href="https://mit-license.org/.">MIT License</a>
 
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
