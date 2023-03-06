@@ -52,6 +52,12 @@
 </p>
 
 
+## ⚠️ Bugs Or Errors?
+
+-   Make An [issue](https://github.com/DevBubba/Dark-Tower/issues)
+-   Join The [Discord](https://discord.gg/) **Discord Invite Is Invalid Untill I Can Make An Offical Discord Server**
+
+
 # 🧾 License
 
 ### Dark Tower is licensed under the <a href="https://mit-license.org/.">MIT License</a>
