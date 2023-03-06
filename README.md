@@ -54,7 +54,7 @@
 
 ## ⚠️ Bugs Or Errors?
 
--   Make An [issue](https://github.com/DevBubba/Dark-Tower/issues)
+-   Make An [Issue](https://github.com/DevBubba/Dark-Tower/issues)
 -   Join The [Discord](https://discord.gg/) **Discord Invite Is Invalid Untill I Can Make An Offical Discord Server**
 
 
