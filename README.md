@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/github/commit-activity/w/devbubba/Dark-Tower?color=%23000000"> 
     <img src="https://img.shields.io/github/last-commit/devbubba/Dark-Tower?color=%23000000&logoColor=%23000000">
     <br>
+    <img src="https://img.shields.io/github/issues/DevBubba/Dark-Tower?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/DevBubba/Dark-Tower?color=%23000000&logoColor=%23000000">
+    <br>
     <a href="https://Dark-Tower.devbubba.repl.co">Play Dark Tower</a>
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
@@ -20,7 +23,7 @@
 ### The Princess is at the Top of the Tower. You Need to Get There as Fast as You Can and Try to Save Her! Try to Beat Your Best Time and Get the Fastest Time You Can. The World Record Run is 33.96 Seconds Set by Quinton Hall! Can You Beat It? Find Out by Playing the Game for Yourself!
 
 
-# ⌨️ Leyboard Shorcuts
+# ⌨️ Keyboard Shorcuts
 
 
 | Description                                                | Keys                                                                 |
