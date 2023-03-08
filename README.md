@@ -28,6 +28,7 @@
 - **[📷 〢 Preview](#preview)**
 - **[🕹️ 〢 Game Controls](#gamecontrols)**
 - **[⌨️ 〢 Keyboard Shorcuts](#keyboardshortcuts)**
+- **[📚 〢 Changelog](#changelog)**
 - **[⚠️ 〢 Bugs Or Errors](#bugsorerrors)**
 - **[🧾 〢 Lisence](#lisence)**
 
@@ -42,7 +43,7 @@
 - `Live Scenes`🟢
 - `Add WASD As Movement Keys`🟡
 - `Improving Game Animations And Graphics`🟡
-- `Hosting On Github And Replit`🔴
+- `Hosting On GitHub And Replit`🔴
 - `Leaderboard`🔴
 
 🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
@@ -90,6 +91,11 @@
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/StoryPreview.png"></img>
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%"> 
 </div>
+
+
+## <a id="changelog"></a> 📚 〢 Changelog 
+
+All Notable Changes To Dark-Tower (This Project) Will Be Documented In This [File](https://github.com/DevBubba/Dark-Tower/blob/main/CHANGELOG.md)
 
 
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
