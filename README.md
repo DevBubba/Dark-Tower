@@ -24,7 +24,7 @@
 
 - **[📖 〢 Description](#description)**
 - **[🔰 〢 Features](#features)**
-- **[🔗 〢 Discord](https://discord.gg)**
+- **[🔗 〢 Discord](https://discord.gg/6qAvAephsW)**
 - **[📷 〢 Preview](#preview)**
 - **[🕹️ 〢 Game Controls](#gamecontrols)**
 - **[⌨️ 〢 Keyboard Shorcuts](#keyboardshortcuts)**
@@ -101,7 +101,7 @@ All Notable Changes To Dark-Tower (This Project) Will Be Documented In This [Fil
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
 
 -   To Report An Error Make An **[Issue](https://github.com/DevBubba/Dark-Tower/issues)**
--   Or Join The **[Discord](https://discord.gg/)** Discord Invite Is Invalid Untill I Can Make An Offical Discord Server
+-   Or Join The **[Discord](https://discord.gg/6qAvAephsW)**
 
 
 ## 🧾 <a id="lisence"></a> License
