@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: dark-tower
+    env: node
+    buildCommand: npm install && npm run build
+    startCommand: node run.js
+    plan: free
+    envVars:
+      - key: NODE_ENV
+        value: production
