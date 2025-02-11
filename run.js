@@ -6,11 +6,21 @@ const ws = require("ws");
 const http = require("http");
 const Database = require("@replit/database");
 const multiplayer = require("./multiplayer");
+const RateLimit = require("express-rate-limit");
 const db = new Database();
 const app = express();
 const server = http.createServer(app);
 const port = process.env.PORT || 8000;
 let err = null;
+
+// set up rate limiter: maximum of 100 requests per 15 minutes
+const limiter = RateLimit({
+    windowMs: 15 * 60 * 1000, // 15 minutes
+    max: 100, // max 100 requests per windowMs
+});
+
+// apply rate limiter to all requests
+app.use(limiter);
 
 multiplayer(server);
 
