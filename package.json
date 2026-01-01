@@ -4,7 +4,7 @@
 		"@replit/database": "^2.0.1",
 		"chokidar": "^3.5.2",
 		"esbuild": "^0.25.0",
-		"express": "^4.21.2",
+		"express": "^4.22.1",
 		"kaboom": "2000.0.0-beta.24",
 		"stacktrace-js": "^2.0.2",
 		"ws": "^8.17.1",
